@@ -78,6 +78,14 @@ TerminalATM -> Usuario : entregar dinero
 
 ![image](https://github.com/user-attachments/assets/6263d842-e6a1-41dc-8c08-d4c4f07b8e1c)
 
+
+b) Interpretación del diagrama
+
+Describe diagrama final de CU: Validación usuario. (Entrega: La interpretación del diagrama, descripción de elementos)
+
+Respuesta:
+El diagrama final de Validación de Usuario muestra cómo un usuario ingresa sus credenciales en la interfaz, que las envía al GestorAutenticación. Este consulta al RepositorioUsuarios para verificar la información y devuelve el resultado. 
+
 c) Responde a la pregunta: ¿De que manera te ayuda un diagrama de secuencias durante el proceso de desarrollo del software? 
 (Entrega:
 Un diagrama de secuencias ayuda a visualizar la interacción entre actores y el sistema, facilitando la comunicación, el diseño y la implementación. Mejora la claridad del flujo del sistema, optimiza la mantenibilidad y ayuda en pruebas y depuración al identificar errores y validar la lógica del software.)
